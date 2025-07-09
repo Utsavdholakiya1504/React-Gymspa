@@ -272,7 +272,8 @@ li {
     display: flex;
     position: relative;
     justify-content: center;
-
+  margin-bottom: 0px;
+    padding-bottom: 0px;
 }
 
 .header .header-bottom .header-bot-inner .header-bot-middle .navbar>li:nth-child(2) a::after,
@@ -324,6 +325,7 @@ li {
     line-height: 24px;
     text-transform: capitalize;
     text-decoration: none;
+    
 }
 
 .header .header-bottom .header-bot-inner .header-bot-middle .navbar li:hover span {
